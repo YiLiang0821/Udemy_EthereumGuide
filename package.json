@@ -1,0 +1,21 @@
+{
+  "name": "udemy_blockchain",
+  "version": "1.0.0",
+  "description": "Udemy_blockchain_project",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.4.1",
+    "mocha": "^6.0.2",
+    "solc": "^0.4.25",
+    "web3": "^1.0.0-beta.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "YiLiang",
+  "license": "ISC"
+}
